@@ -1,4 +1,4 @@
-﻿:root {
+:root {
   --bg: #060b16;
   --bg-soft: #0b1324;
   --fg: #e8eefc;
@@ -553,6 +553,12 @@ body[data-theme="light"] .hero-list li {
   margin: 0.15rem 0 0.35rem;
   font-size: 1.75rem;
   letter-spacing: -0.03em;
+}
+
+.price-sub {
+  margin: 0 0 0.45rem;
+  font-size: 0.9rem;
+  color: var(--muted);
 }
 
 .plan ul {
